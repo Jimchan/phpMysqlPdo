@@ -1,0 +1,19 @@
+{
+    "name": "phpmysqlpdo/phpmysqlpdo",
+    "description": "php连接pdo简易类",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chen Zhuan",
+            "email": "chenjim2347@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "phpmysqlpdo\\phppdo\\": "src/phpmysqlpdo/phppdo"
+        }
+    }
+}

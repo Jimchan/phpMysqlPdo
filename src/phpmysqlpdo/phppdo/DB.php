@@ -1,6 +1,7 @@
 <?php
+namespace phpmysqlpdo\phppdo;
 
-class Mysql
+class DB
 {
     /**
      * 单例对象
